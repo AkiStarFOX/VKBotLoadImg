@@ -1,0 +1,3 @@
+rootProject.name = 'VKBotLoad'
+include("lire")
+
